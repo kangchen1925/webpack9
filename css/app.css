@@ -1,0 +1,9 @@
+.title{
+  color: #e4393c;
+}
+
+.item{
+  width: 268px;
+  height: 173px;
+  background: url('../images/a.jpg') no-repeat 0 0;
+}
